@@ -1,4 +1,4 @@
-### **SQL Projects Projects**
+### **SQL Projects**
 This repository features a collection of SQL-based projects designed to demonstrate expertise in database management, querying, and analysis. 
 Each project showcases the use of SQL for solving real-world data problems, ranging from data extraction and transformation to analytical queries and database optimization.
 
