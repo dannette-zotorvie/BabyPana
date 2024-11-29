@@ -19,20 +19,18 @@ Each project folder contains:
      - SQL techniques and functions used  
      - Insights or outcomes of the analysis  
 
-## **Getting Started**
-
-### 1. **Prerequisites:**  
-   - A database management system (e.g., MySQL, PostgreSQL, SQLite, or SQL Server).  
+#### **Getting Started**
+ 1. **Prerequisites:**  
+   - A database management system, MySQL.  
    - Familiarity with importing datasets or executing SQL scripts.  
 
-### 2. **How to Use:**  
+2. **How to Use:**  
    - Navigate to the desired project folder.  
    - Import the provided dataset into your database.  
    - Execute the SQL scripts to replicate the queries and analysis.  
    - Refer to the documentation for insights into the project goals and outcomes.  
-
 ---
-## **Contact**
+#### **Contact**
 
 For questions, suggestions, or collaboration opportunities:  
 📧 Email: [dannettezoterial@gmail.com](mailto:dannettezoterial@gmail.com)
